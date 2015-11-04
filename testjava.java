@@ -120,6 +120,8 @@ public abstract class ActionUtils {
 	 */
 	protected void downloadFile(File file) {
 		logger.info("file output start.");
+		logger.info("file output start.");
+		logger.info("file output start.");
 		String fileName = "";
 		String fileNameEncoded = "";
 		String path = "";
