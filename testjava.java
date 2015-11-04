@@ -22,7 +22,7 @@ import jp.co.iaccess.web.util.ScreenId;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-
+///////////////////////////
 /**
  * 各画面で使用するユーティリティ
  * 共通サービスを使用する場合は、このクラスを介して実施します。
